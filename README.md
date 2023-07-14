@@ -34,7 +34,7 @@ If you don't see any errors, you're ready to use MeeShop!
   
 ## Creators
 - [**IarChep**](https://github.com/YaroslavChepel) - main developer. Ask him on [Telegram](https://t.me/iaroslavchep)
-- [**WunderWuingiel**](https://github.com/WunderWungiel) - He dumped apps from OpenRepos, dumped apps icons, he's hosting a server. Ask him on [Telegram](https://t.me/WunderW_PL)
+- [**Wunder Wungiel**](https://github.com/WunderWungiel) - He dumped apps from OpenRepos, dumped apps icons, he's hosting a server. Ask him on [Telegram](https://t.me/WunderW_PL)
 
 ## Special thanks
 - [**Linux Mobile World Group**](https://t.me/linuxmobile_world) - Mobile linux lovers community
