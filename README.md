@@ -33,7 +33,7 @@ If you don't see any errors, you're ready to use MeeShop!
   (sorry i didn't make any screenshots)
   
 ## Creators
-[**IarChep**](https://github.com/YaroslavChepel) - main developer. Ask him on [Telegram](https://t.me/iaroslavchep)
+[**IarChep**](https://github.com/YaroslavChepel) - main developer. Ask him on [Telegram](https://t.me/iaroslavchep) \n
 [**WunderWuingiel**](https://github.com/WunderWungiel) - main developer. Ask him on [Telegram](https://t.me/WunderW_PL)
 
 ## Special thanks
