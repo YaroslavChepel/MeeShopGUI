@@ -2,6 +2,9 @@
 
 **MeeShopGUI** is a **brand-new**, **working** app store for Nokia N9 / N950 devices running MeeGo Harmattan. MeeShopGUI uses [OpenRepos](http://openrepos.net) as its database.
 
+## Bugz
+* Bug with app list when searching
+* Tools category does not work
 
 ## Installing
 
